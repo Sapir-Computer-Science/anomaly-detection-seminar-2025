@@ -1,1 +1,38 @@
-# anomaly-detection-seminar-2025
+# סמינר זיהוי חריגות בסדרות זמן 2025  (Seminar in Anomaly Detection in Time Series 2025)
+
+ברוכים הבאים!  
+במאגר הזה מרוכזות ההרצאות של הסטודנטים בסמינר.  
+כל סטודנט קרא מאמר מוביל, הכין מצגת והסביר:  
+- מה מייחד את המאמר הזה?  
+- איך האלגוריתם עובד?  
+- מה התוצאות העיקריות?
+
+#ההרצאות מוטמעות כאן לצפייה ישירה (מותאם למובייל ומחשב).
+
+## רשימת המציגים והמאמרים
+
+| מציג/ית         | שם המאמר (קצר)                                      | קישור למאמר                                                                 | קישור ל-repo מקורי                                      | כנס / כתב עת     | H-index | Citations | GitHub Stars | לינק לסרטון יוטיוב                          |
+|------------------|-------------------------------------------------------|-------------------------------------------------------------------------------|----------------------------------------------------------|-------------------|---------|-----------|--------------|-----------------------------------------------|
+| המרצה מאמר/מצגת לדוגמא | Causality-Aware Contrastive Learning...              | [arxiv](https://arxiv.org/abs/2506.03964)                                    | [github](https://github.com/kimanki/CAROTS)             | ICML  25           | 25      | 27        | 24           | [https://youtu.be/G2dmwesdoRQ](https://youtu.be/G2dmwesdoRQ) |
+| נמרוד שצמן     | ImDiffusion                                          | [arxiv](https://arxiv.org/pdf/2307.00754)                                    | [github](https://github.com/17000cyh/IMDiffusion)       | VLDB             | 90      | 97        | 111          |                            |
+| שלומי           | METER                                                | [arxiv](https://arxiv.org/abs/2312.16831)                                    | [github](https://github.com/zjiaqi725/METER)            | -                | 18      | 42        | 21           |                            |
+| רוני ביטון     | Learning Sparse Latent Graph... (KDD '22)            | [researchgate](https://www.researchgate.net/publication/362690071_...)      | [github](https://github.com/sihohan/FuSAGNet)           | KDD '22          | -       | -         | -            |                            |
+| אופק בן דוד    | PATE                                                 | [acm](https://dl.acm.org/doi/abs/10.1145/3637528.3671971)                   | -                                                        | KDD              | 124     | 151       | 8            |                            |
+| בר משה          | Detecting Multivariate... Zero Known Label           | [aaai](https://ojs.aaai.org/index.php/AAAI/article/view/25623)              | [github](https://github.com/zqhang/MTGFLOW)             | AAAI             | 23      | 25        | 170          |                            |
+| אמינה פראחין   | D3R: Drift doesn’t Matter                            | [neurips](https://proceedings.neurips.cc/paper_files/paper/2023/hash/...)   | [github](https://github.com/ForestsKing/D3R)            | NeurIPS '24      | 37      | 164       | 79           |                            |
+| קארם טורי       | Graph Neural Network-Based...                        | [arxiv](https://arxiv.org/pdf/2106.06947)                                    | [github](https://github.com/d-ailin/GDN)                | AAAI '21         | 145     | 457       | 74           |                            |
+| שי כהן          | Revisiting VAE... Frequency Perspective              | [acm](https://dl.acm.org/doi/10.1145/3589334.3645710)                       | [github](https://github.com/CSTCloudOps/FCVAE)          | -                | 86      | 82        | 77           |                            |
+| אביאל חוטיאנוב | Selective review of offline change point...          | [sciencedirect](https://www.sciencedirect.com/science/article/pii/S0165168419303494) | [github](https://github.com/deepcharles/ruptures)       | Signal Process. '19 | 49   | 200       | 0            |                            |
+| עדי ביטון       | Deep Isolation Forest...                             | [ieee](https://ieeexplore.ieee.org/abstract/document/10108034)              | [github](https://github.com/xuhongzuo/deep-iforest)     | TKDE             | 126     | 452       | 107          |                            |
+| תמירה אוחנה    | Calibrated One-class...                              | [ieee](https://ieeexplore.ieee.org/abstract/document/10508984)              | [github](https://github.com/xuhongzuo/couta)            | TKDE             | 126     | 144       | 68           |                            |
+| רז גולדשטיין   | DCdetector                                           | [arxiv](https://arxiv.org/pdf/2306.10347)                                    | [github](https://github.com/RazGold98)                  | KDD ’23          | 124     | 298       | 25           |                            |
+| חיים גלטה       | Correlation-aware Spatial-Temporal...                | [ieee](https://ieeexplore.ieee.org/document/10316684)                       | [github](https://github.com/huankoh/CST-G)              | IEEE TNNLS       | 165     | 817       | 5            |                            |
+| אדוה לרנר       | CutAddPaste...                                       | -                                                                             | [github](https://github.com/ruiking04)                  | -                | -       | -         | -            |                            |
+| פאטמה אלקרינאוי| AFMF                                                 | ScienceDirect                                                                 | [github](https://github.com/OrigamiSL/AFMF)             | KBS '24          | 59      | -         | -            |                            |
+| יגאל גואטה      | FITS: Modeling Time Series with 10k Parameters       | -                                                                             | [github](https://github.com/VEWOXIC/FITS)               | -                | -       | -         | -            |                            |
+| נוראן אלנבארי  | Sub-Adjacent Transformer...                          | [arxiv](https://arxiv.org/pdf/2404.18948)                                    | [github](https://github.com/jackyue1994/sub_adjacent_transformer) | IJCAI '24     | 136     | 11        | 6            |                            |
+| טליה זזון      | Pre-trained KPI... Disentangled Transformer          | [acm](https://dl.acm.org/doi/abs/10.1145/3637528.3671522)                   | [github](https://github.com/NetManAIOps/KAD-Disformer)  | KDD'24           | 86      | 5         | -            |                            |
+| שמואל           | From Chaos to Clarity... Astronomical                | -                                                                             | -                                                        | ICDE 2024        | 82      | 7         | -            |                            |
+| הודיה חסאן      | MSD-Mixer                                            | [arxiv](https://arxiv.org/abs/2310.11959)                                    | [github](https://github.com/zshhans/MSD-Mixer)          | VLDB 2024        | 44      | 69        | 95           |                            |
+| דניאל           | Time Series Anomaly Detection... Bayesian            | [acm](https://dl.acm.org/doi/abs/10.1145/3447548.3467137)                   | [github](https://github.com/cfeng783/NSIBF)             | KDD 21           | 124     | 118       | 42           |                            |
+
